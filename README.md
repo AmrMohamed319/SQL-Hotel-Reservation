@@ -21,48 +21,48 @@ The dataset used in this project includes the following columns:
 15. booking_status
 
 # Project Details
-## Q1. Total Number of Reservations
+### Q1. Total Number of Reservations
 Calculate the total number of reservations in the dataset.
 
-## Q2. Most Popular Meal Plan
+### Q2. Most Popular Meal Plan
 Identify the most popular meal plan among guests.
 
-## Q3. Average Price per Room for Reservations with Children
+### Q3. Average Price per Room for Reservations with Children
 Determine the average room price for reservations involving children.
 
-## Q4. Reservations Made for the Year 20XX
+### Q4. Reservations Made for the Year 20XX
 Find the total number of reservations made for a specific year.
 
-## Q5. Most Commonly Booked Room Type
+### Q5. Most Commonly Booked Room Type
 Identify the most commonly booked room type.
 
-## Q6. Reservations Falling on a Weekend
+### Q6. Reservations Falling on a Weekend
 Count the reservations that include weekend nights.
 
-## Q7. Highest and Lowest Lead Time for Reservations
+### Q7. Highest and Lowest Lead Time for Reservations
 Find the highest and lowest lead times for reservations.
 
-## Q8. Most Common Market Segment Type for Reservations
+### Q8. Most Common Market Segment Type for Reservations
 Determine the most common market segment type for reservations.
 
-## Q9. Reservations with "Confirmed" Booking Status
+### Q9. Reservations with "Confirmed" Booking Status
 Count the number of reservations with a booking status of "Confirmed".
 
-## Q10. Total Number of Adults and Children Across All Reservations
+### Q10. Total Number of Adults and Children Across All Reservations
 Calculate the total number of adults and children across all reservations.
 
-## Q11. Average Number of Weekend Nights for Reservations with Children
+### Q11. Average Number of Weekend Nights for Reservations with Children
 Find the average number of weekend nights for reservations involving children.
 
-## Q12. Reservations Made in Each Month of the Year
+### Q12. Reservations Made in Each Month of the Year
 Count the number of reservations made in each month of the year.
 
-## Q13. Average Nights Spent by Guests for Each Room Type
+### Q13. Average Nights Spent by Guests for Each Room Type
 Determine the average number of weekend and weekday nights spent by guests for each room type.
 
-## Q14. Most Common Room Type and Average Price for Reservations with Children
+### Q14. Most Common Room Type and Average Price for Reservations with Children
 Identify the most common room type and its average price for reservations involving children.
 
-## Q15. Market Segment Type Generating the Highest Average Price per Room
+### Q15. Market Segment Type Generating the Highest Average Price per Room
 Find the market segment type that generates the highest average price per room.
 
